@@ -1,5 +1,7 @@
-pandas>=2.2
+pandas>=2.0,<3.0
 numpy>=1.26
 matplotlib>=3.8
 scikit-learn>=1.4
-jupyter
+
+jupyterlab>=4.0
+ipykernel>=6.29
